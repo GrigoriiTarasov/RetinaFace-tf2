@@ -28,6 +28,11 @@ Then build the rcnn module by running :
 ```
 make
 ```
+
+Load retinafaceweights.npy weights : 
+```
+git lfs pull
+```
 <a name="Usage"></a>
 ## USAGE
 Run  :
